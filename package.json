@@ -1,0 +1,16 @@
+{
+  "name": "Bot usando OpenWa",
+  "version": "1.0.0",
+  "description": "Base para um futuro chatbot.",
+  "main": "main.js",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.25.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo → Sem testes! Para iniciar digite \"npm start\" ou \"node main.js\"! && exit 1"
+  },
+  "author": "FreshPhp.",
+  "license": "MIT"
+}
